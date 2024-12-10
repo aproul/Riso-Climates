@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+    cursor: pointer;
+    background-image: url('deskA.png');  /* Set your background image here */
+    background-size: cover;  /* Ensure the image covers the entire background */
+    background-position: center;  /* Center the image */
+    background-attachment: fixed;  /* Keep the background fixed while scrolling */
+}
+
+
+#title {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 2rem;
+    color: #ff4901;
+    font-weight: bold;
+}
+
+.square {
+    position: absolute;
+    width: 250px;
+    height: 300px;
+    box-shadow: 38px 30px 40px 0px rgba(0,0,0,0.75);
+    background-size: cover;  /* Ensure GIF fits the square */
+    background-position: center;
+    cursor: pointer;
+    animation: bobbing 1.5s ease-in-out infinite; /* Slower bobbing effect */
+    transition: left 0.5s ease, top 0.5s ease;  /* Smooth transition for position */
+}
+
+@keyframes bobbing {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-5px); }  /* Reduced bobbing height */
+    100% { transform: translateY(0); }
+}
+
+/* Perspective effect */
+.perspective {
+    perspective: 1000px;
+    transform-style: preserve-3d;
+    transition: transform 0.1s;
+}
