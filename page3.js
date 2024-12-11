@@ -1,10 +1,10 @@
 const bookElement = document.getElementById('book');
 const imagePaths = [
-    'cacti slices/cacti-slice-01.jpg', 'cacti slices/cacti-slice-02.jpg', 'cacti slices/cacti-slice-03.jpg', 'cacti slices/cacti-slice-04.jpg', 
-    'cacti slices/cacti-slice-05.jpg', 'cacti slices/cacti-slice-06.jpg', 'cacti slices/cacti-slice-07.jpg', 'cacti slices/cacti-slice-08.jpg',
-    'cacti slices/cacti-slice-09.jpg', 'cacti slices/cacti-slice-10.jpg', 'cacti slices/cacti-slice-11.jpg', 'cacti slices/cacti-slice-12.jpg',
-    'cacti slices/cacti-slice-13.jpg', 'cacti slices/cacti-slice-14.jpg', 'cacti slices/cacti-slice-15.jpg', 'cacti slices/cacti-slice-16.jpg',
-    'cacti slices/cacti-slice-17.jpg', 'cacti slices/cacti-slice-18.jpg', 'cacti slices/cacti-slice-19.jpg', 'cacti slices/cacti-slice-20.jpg',
+    'cacti slices/CACTI-slice-01.jpg', 'cacti slices/CACTI-slice-02.jpg', 'cacti slices/CACTI-slice-03.jpg', 'cacti slices/CACTI-slice-04.jpg', 
+    'cacti slices/CACTI-slice-05.jpg', 'cacti slices/CACTI-slice-06.jpg', 'cacti slices/CACTI-slice-07.jpg', 'cacti slices/CACTI-slice-08.jpg',
+    'cacti slices/CACTI-slice-09.jpg', 'cacti slices/CACTI-slice-10.jpg', 'cacti slices/CACTI-slice-11.jpg', 'cacti slices/CACTI-slice-12.jpg',
+    'cacti slices/CACTI-slice-13.jpg', 'cacti slices/CACTI-slice-14.jpg', 'cacti slices/CACTI-slice-15.jpg', 'cacti slices/CACTI-slice-16.jpg',
+    'cacti slices/CACTI-slice-17.jpg', 'cacti slices/CACTI-slice-18.jpg', 'cacti slices/CACTI-slice-19.jpg', 'cacti slices/CACTI-slice-20.jpg',
 ];
 
 const pages = [];
