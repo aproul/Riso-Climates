@@ -8,8 +8,8 @@ let mouseY = 0;
 const gifs = [
     'MOUNTAIN-draft.gif', // Square 1
     'OCEAN-animation.gif', // Square 2
-    'cacti-animation.gif', // Square 3
-    'rain-animation.gif', // Square 4
+    'CACTI-animation.gif', // Square 3
+    'RAIN-animation.gif', // Square 4
     'INFORMATION.PNG'  // Square 5
 ];
 
