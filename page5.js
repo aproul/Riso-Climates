@@ -1,6 +1,6 @@
 const bookElement = document.getElementById('book');
 const imagePaths = [
-    'information slices/INFO_01.jpg', 'information slices/INFO_02.jpg', 'information slices/INFO_03.jpg', 'information slices/INFO_04.jpg','information slices/INFO_05.jpg', 'information slices/INFO_06.jpg', 'information slices/INFO_07.jpg', 'information slices/INFO_08.jpg', 'information slices/INFO_09.jpg', 'information slices/INFO_10.jpg', 'information slices/INFO_11.jpg', 'information slices/INFO_12.jpg',  'information slices/INFO_x.jpg' ,
+    'information slices/Info_01.jpg', 'information slices/info_02.jpg', 'information slices/info_03.jpg', 'information slices/info_04.jpg','information slices/info_05.jpg', 'information slices/info_06.jpg', 'information slices/info_07.jpg', 'information slices/info_08.jpg', 'information slices/info_09.jpg', 'information slices/info_10.jpg', 'information slices/info_11.jpg', 'information slices/info_12.jpg',  'information slices/info_x.jpg' ,
    
 ];
 
