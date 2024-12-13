@@ -1,10 +1,10 @@
 const bookElement = document.getElementById('book');
 const imagePaths = [
-    'mountain slices/MOUNTAIN-pg-01.PNG', 'mountain slices/MOUNTAIN-pg-02.PNG', 'mountain slices/MOUNTAIN-pg-03.PNG', 'mountain slices/MOUNTAIN-pg-04.PNG', 
-    'mountain slices/MOUNTAIN-pg-05.PNG', 'mountain slices/MOUNTAIN-pg-06.PNG', 'mountain slices/MOUNTAIN-pg-07.PNG', 'mountain slices/MOUNTAIN-pg-08.PNG',
-    'mountain slices/MOUNTAIN-pg-09.PNG', 'mountain slices/MOUNTAIN-pg-10.PNG', 'mountain slices/MOUNTAIN-pg-11.PNG', 'mountain slices/MOUNTAIN-pg-12.PNG',
-    'mountain slices/MOUNTAIN-pg-13.PNG', 'mountain slices/MOUNTAIN-pg-14.PNG', 'mountain slices/MOUNTAIN-pg-15.PNG', 'mountain slices/MOUNTAIN-pg-16.PNG',
-    'mountain slices/MOUNTAIN-pg-17.PNG', 'mountain slices/MOUNTAIN-pg-18.PNG', 'mountain slices/MOUNTAIN-pg-19.PNG', 'mountain slices/MOUNTAIN-pg-20.PNG',
+    'mountain slices/MOUNTAIN-PG-01.png', 'mountain slices/MOUNTAIN-pg-02.png', 'mountain slices/MOUNTAIN-pg-03.png', 'mountain slices/MOUNTAIN-pg-04.png', 
+    'mountain slices/MOUNTAIN-pg-05.png', 'mountain slices/MOUNTAIN-pg-06.png', 'mountain slices/MOUNTAIN-pg-07.png', 'mountain slices/MOUNTAIN-pg-08.png',
+    'mountain slices/MOUNTAIN-pg-09.png', 'mountain slices/MOUNTAIN-pg-10.png', 'mountain slices/MOUNTAIN-pg-11.png', 'mountain slices/MOUNTAIN-pg-12.png',
+    'mountain slices/MOUNTAIN-pg-13.png', 'mountain slices/MOUNTAIN-pg-14.png', 'mountain slices/MOUNTAIN-pg-15.png', 'mountain slices/MOUNTAIN-pg-16.png',
+    'mountain slices/MOUNTAIN-pg-17.png', 'mountain slices/MOUNTAIN-pg-18.png', 'mountain slices/MOUNTAIN-pg-19.png', 'mountain slices/MOUNTAIN-pg-20.png',
 ];
 
 const pages = [];

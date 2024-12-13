@@ -1,10 +1,10 @@
 const bookElement = document.getElementById('book');
 const imagePaths = [
-    'oceanslices/ocean-pg-01.PNG', 'oceanslices/ocean-pg-02.PNG', 'oceanslices/ocean-pg-03.PNG', 'oceanslices/ocean-pg-04.PNG', 
-    'oceanslices/ocean-pg-05.PNG', 'oceanslices/ocean-pg-06.PNG', 'oceanslices/ocean-pg-07.PNG', 'oceanslices/ocean-pg-08.PNG',
-    'oceanslices/ocean-pg-09.PNG', 'oceanslices/ocean-pg-10.PNG', 'oceanslices/ocean-pg-11.PNG', 'oceanslices/ocean-pg-12.PNG',
-    'oceanslices/ocean-pg-13.PNG', 'oceanslices/ocean-pg-14.PNG', 'oceanslices/ocean-pg-15.PNG', 'oceanslices/ocean-pg-16.PNG',
-    'oceanslices/ocean-pg-17.PNG', 'oceanslices/ocean-pg-18.PNG', 'oceanslices/ocean-pg-19.PNG', 'oceanslices/ocean-pg-20.PNG',
+    'oceanslices/OCEAN-PG-01.png', 'oceanslices/OCEAN-PG-02.png', 'oceanslices/OCEAN-PG-03.png', 'oceanslices/OCEAN-PG-04.png', 
+    'oceanslices/OCEAN-PG-05.png', 'oceanslices/OCEAN-PG-06.png', 'oceanslices/OCEAN-PG-07.png', 'oceanslices/OCEAN-PG-08.png',
+    'oceanslices/OCEAN-PG-09.png', 'oceanslices/OCEAN-PG-10.png', 'oceanslices/OCEAN-PG-11.png', 'oceanslices/OCEAN-PG-12.png',
+    'oceanslices/OCEAN-PG-13.png', 'oceanslices/OCEAN-PG-14.png', 'oceanslices/OCEAN-PG-15.png', 'oceanslices/OCEAN-PG-16.png',
+    'oceanslices/OCEAN-PG-17.png', 'oceanslices/OCEAN-PG-18.png', 'oceanslices/OCEAN-PG-19.png', 'oceanslices/OCEAN-PG-20.png',
 ];
 
 const pages = [];
