@@ -10,7 +10,7 @@ const gifs = [
     'OCEAN-animation.gif', // Square 2
     'CACTI-animation.gif', // Square 3
     'RAIN-animation.gif', // Square 4
-    'INFORMATION.png'  // Square 5
+    'INFORMATION.png',  // Square 5
 ];
 
 // Function to check if a position overlaps with an existing square
