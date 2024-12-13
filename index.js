@@ -4,7 +4,7 @@ const body = document.body;
 let mouseX = 0;
 let mouseY = 0;
 
-// Array of GIF URLs (replace with your own GIFs or use online URLs)
+
 const gifs = [
     'MOUNTAIN-draft.gif', // Square 1
     'OCEAN-animation.gif', // Square 2
