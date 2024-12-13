@@ -1,10 +1,10 @@
 const bookElement = document.getElementById('book');
 const imagePaths = [
-    'rainslices/rain-slice-01.jpg', 'rainslices/rain-slice-02.jpg', 'rainslices/rain-slice-03.jpg', 'rainslices/rain-slice-04.jpg', 
-    'rainslices/rain-slice-05.jpg', 'rainslices/rain-slice-06.jpg', 'rainslices/rain-slice-07.jpg', 'rainslices/rain-slice-08.jpg',
-    'rainslices/rain-slice-09.jpg', 'rainslices/rain-slice-10.jpg', 'rainslices/rain-slice-11.jpg', 'rainslices/rain-slice-12.jpg',
-    'rainslices/rain-slice-13.jpg', 'rainslices/rain-slice-14.jpg', 'rainslices/rain-slice-15.jpg', 'rainslices/rain-slice-16.jpg',
-    'rainslices/rain-slice-17.jpg', 'rainslices/rain-slice-18.jpg', 'rainslices/rain-slice-19.jpg', 'rainslices/rain-slice-20.jpg',
+    'rainslices/RAIN-slice-01.jpg', 'rainslices/RAIN-slice-02.jpg', 'rainslices/RAIN-slice-03.jpg', 'rainslices/RAIN-slice-04.jpg', 
+    'rainslices/RAIN-slice-05.jpg', 'rainslices/RAIN-slice-06.jpg', 'rainslices/RAIN-slice-07.jpg', 'rainslices/RAIN-slice-08.jpg',
+    'rainslices/RAIN-slice-09.jpg', 'rainslices/RAIN-slice-10.jpg', 'rainslices/RAIN-slice-11.jpg', 'rainslices/RAIN-slice-12.jpg',
+    'rainslices/RAIN-slice-13.jpg', 'rainslices/RAIN-slice-14.jpg', 'rainslices/RAIN-slice-15.jpg', 'rainslices/RAIN-slice-16.jpg',
+    'rainslices/RAIN-slice-17.jpg', 'rainslices/RAIN-slice-18.jpg', 'rainslices/RAIN-slice-19.jpg', 'rainslices/RAIN-slice-20.jpg',
 ];
 
 const pages = [];
